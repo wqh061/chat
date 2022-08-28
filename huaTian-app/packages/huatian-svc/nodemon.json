@@ -1,0 +1,9 @@
+{
+  "restartle": "rs",
+  "watch": ["src", "../huatian-model/src"],
+  "execMap": {
+    "ts": "ts-node",
+    "js": "node"
+  },
+  "verbose": true
+}
